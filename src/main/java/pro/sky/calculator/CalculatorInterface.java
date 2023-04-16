@@ -7,4 +7,3 @@ public interface CalculatorInterface {
    String divideCalculator(int num1,int num2);
 }
 
-
